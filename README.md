@@ -1,6 +1,11 @@
-# Nuxt Minimal Starter
+# 🌲Linktree
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Site para agrupar meus perfis na redes sociais
+
+## 💡Objetivo do projeto
+Alternativa para o Linktree website.
+
+* [Demo] (https://bespoke-kringle-99bf02.netlify.app/)
 
 ## Setup
 
@@ -18,24 +23,6 @@ yarn install
 
 # bun
 bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
 ## Production
