@@ -1,11 +1,20 @@
 # 🌲Linktree
-
-Site para agrupar meus perfis na redes sociais
+Site para agrupar meus perfis nas redes sociais
 
 ## 💡Objetivo do projeto
 Alternativa para o Linktree website.
 
-* [Demo] (https://bespoke-kringle-99bf02.netlify.app/)
+[Demo](https://suzanalima.netlify.app/)
+
+## 🚀 Getting started
+Se você instalou o git, você pode clonar o código em sua máquina ou baixar um ZIP de todos os arquivos diretamente. Baixe o ZIP deste local ou execute o seguinte comando git para clonar os arquivos em sua máquina:
+
+```bash
+https://github.com/SuzanaLima/7AOJR-vuejs-project.git
+```
+
+Assim que os arquivos estiverem em sua máquina, abra a pasta linktree no Visual Studio Code.
+Com os arquivos abertos no Visual Studio Code, pressione o botão Go Live na parte inferior da janela para iniciar os arquivos com o Live Server.
 
 ## Setup
 
@@ -59,4 +68,4 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+# Made with 🩷 by Suzana Lima
